@@ -1,0 +1,4 @@
+- https://openvim.com (vim tutorial)
+- https://vim-adventures.com  ( game)
+- https://www.vim.org/download.php (vim org)
+- 
