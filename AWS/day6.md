@@ -1,0 +1,2 @@
+- EBS volume : https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html
+- Purchesing Option: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html
